@@ -96,6 +96,28 @@ picture .profile_photo {
     background: #b6ecff;
 }
 
+/* fellowship and awards */
+.fellowship {
+    background-color : whitesmoke;
+}
+.fellowship_content{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    
+}
+.fellowship_description{
+    padding-bottom: 1rem;
+}
+
+/* Presentations */
+.presentations{
+    background-color: #F1BF98;
+}
+.presentation_content{
+    display: grid;
+    grid-template-columns: 2fr,2fr;
+}
+
 
 /* skills 
 ------------------------------------------ */
