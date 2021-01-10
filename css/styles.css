@@ -34,7 +34,7 @@ header {
     color: white;
     overflow: hidden;
 }
-header h1,header h2 {
+header h1,header h2, header h3 {
     font-family: 'Caveat', cursive;
     display: inline-block;
     margin: 0;
